@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>InstallmentLibrary</PackageId>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Authors>Rachel</Authors>
+    <Company>Rach.Genesys</Company>
+    <Product>InstallmentLibrary</Product>
+    <Description>This client library enables set up of payment plan for customers.</Description>
+  </PropertyGroup>
+
+</Project>
