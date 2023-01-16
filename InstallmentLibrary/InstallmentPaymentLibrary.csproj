@@ -4,13 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>InstallmentLibrary</PackageId>
+    <PackageId>InstallmentPaymentLibrary</PackageId>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
-    <Authors>Rachel</Authors>
+    <Version>1.1.1</Version>
+    <Authors>Acha</Authors>
     <Company>Rach.Genesys</Company>
-    <Product>InstallmentLibrary</Product>
+    <Product>InstallmentPaymentLibrary</Product>
     <Description>This client library enables set up of payment plan for customers.</Description>
+    <RepositoryUrl>https://github.com/acha-r/InstallmentLibrary.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
