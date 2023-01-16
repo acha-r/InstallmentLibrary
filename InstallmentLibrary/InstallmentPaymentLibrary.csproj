@@ -6,13 +6,22 @@
     <Nullable>enable</Nullable>
     <PackageId>InstallmentPaymentLibrary</PackageId>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.1.1</Version>
+    <Version>2.1.1</Version>
     <Authors>Acha</Authors>
     <Company>Rach.Genesys</Company>
     <Product>InstallmentPaymentLibrary</Product>
     <Description>This client library enables set up of payment plan for customers.</Description>
     <RepositoryUrl>https://github.com/acha-r/InstallmentLibrary.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <AssemblyVersion>1.1.1.0</AssemblyVersion>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
